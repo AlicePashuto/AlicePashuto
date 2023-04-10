@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning advanced MS Excel
 
 ## Connect with me
-  - [email](alisa.brener@yandex.ru)
   - [telegram](https://t.me/binevsky)
+  - <a href="mailto:https:/alisa.brener@yandex.ru">email</a>
   
 
 
