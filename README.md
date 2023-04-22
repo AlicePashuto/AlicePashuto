@@ -2,13 +2,14 @@
 
 # Developing in data analysis, eternal stud, logician
 
-- 🔭 I’m currently looking for a job in data analysis
-- 🌱 I’m currently learning advanced MS Excel
+- 🔭 Looking for a job in data analysis
+- 🌱 Learning advanced MS Excel
 
 ## Connect with me
   - [telegram](https://t.me/binevsky)
   - <a href="mailto:https:/alisa.brener@yandex.ru">email</a>
   
 ### Languages and Tools:
-
-comming soon
+  - Paython      
+  - SQL
+  - MS Excel
