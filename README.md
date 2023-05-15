@@ -4,7 +4,7 @@
 
 - 🔭 Looking for a job in data analysis
 - 🌱 Learning advanced MS Excel
-- 🐭 [My pet-prijects](https://github.com/AlicePashuto/pet-projects)
+- 🐭 [My pet-projects](https://github.com/AlicePashuto/pet-projects)
 - 📒 [My studies projects](https://github.com/AlicePashuto/Studies-Project)
 
 ## Connect with me
