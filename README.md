@@ -2,8 +2,8 @@
 
 # Developing in data analysis, eternal stud, logician
 
-- 🔭 Looking for a job in data analysis
-- 🌱 Learning advanced MS Excel
+- 👓 Assortment analyst
+- 🌱 Interested in artificial intelligence
 - 🐭 [My pet-projects](https://github.com/AlicePashuto/pet-projects)
 - 📒 [My studies projects](https://github.com/AlicePashuto/Studies-Project)
 
